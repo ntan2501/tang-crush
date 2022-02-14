@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Chưa :3',
     question:'Cái đó hợp với em chứ :< Anh không biết gì nhiều nên chọn được cái đó thôi :3',
     btnReply: 'Gửi',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Hợp chứ sao lại không hihi :))))',
     mess: 'Anh biết mà:3',
     messDesc: 'Nay nhớ ngủ sớm nhá, tool xịn nhắc đấy :))).',
     btnAccept: 'Okiiiii <3',
